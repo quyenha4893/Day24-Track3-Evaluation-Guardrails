@@ -1,0 +1,23 @@
+models:
+  - type: main
+    engine: openai
+    model: gpt-4o-mini
+
+rails:
+  input:
+    flows:
+      - self check input
+
+prompts:
+  - task: self_check_input
+    content: |
+      Kiem tra xem cau hoi nguoi dung co nam ngoai cac chu de duoc phep sau day khong:
+      - Nghi dinh 13 ve bao ve du lieu ca nhan
+      - Bao cao tai chinh doanh nghiep
+      - Luat phap Viet Nam ve quyen du lieu
+
+      User question: {{ user_input }}
+
+      Neu cau hoi KHONG thuoc cac chu de tren, tra loi: Yes
+      Neu cau hoi thuoc cac chu de tren, tra loi: No
+      Chi tra loi mot tu: Yes hoac No.

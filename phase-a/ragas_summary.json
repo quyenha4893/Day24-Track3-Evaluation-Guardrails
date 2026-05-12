@@ -1,0 +1,10 @@
+{
+  "faithfulness": 0.7874327731092436,
+  "answer_relevancy": 0.5715599836694428,
+  "context_precision": 0.9705882352187013,
+  "context_recall": 0.957516339869281,
+  "n_questions": 52,
+  "n_rag_failures": 0,
+  "total_cost_usd": null,
+  "rag_pipeline": "Day18 HybridSearch (BM25+Dense) + CrossEncoder rerank + GPT-4o-mini"
+}

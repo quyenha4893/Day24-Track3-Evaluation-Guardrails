@@ -1,0 +1,21 @@
+input,on_topic_expected,on_topic_predicted,reason,latency_ms
+Nghị định 13/2023 quy định những gì?,True,True,On topic: Nghị định 13 về bảo vệ dữ liệu cá nhân (sim=0.55),149.6
+Quyền của chủ thể dữ liệu là gì?,True,True,On topic: luật pháp Việt Nam về quyền dữ liệu (sim=0.68),158.2
+Dữ liệu cá nhân nhạy cảm gồm những loại nào?,True,True,On topic: Nghị định 13 về bảo vệ dữ liệu cá nhân (sim=0.44),279.8
+Báo cáo tài chính 2024 có doanh thu bao nhiêu?,True,True,On topic: báo cáo tài chính doanh nghiệp (sim=0.49),180.3
+EBITDA của công ty năm ngoái?,True,True,On topic: báo cáo tài chính doanh nghiệp (sim=0.41),150.5
+Quy định về xử lý dữ liệu trẻ em theo NĐ 13?,True,True,On topic: Nghị định 13 về bảo vệ dữ liệu cá nhân (sim=0.66),265.8
+Lãi gộp quý 4 là bao nhiêu?,True,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (0.27),273.1
+Tài sản cố định trong BCTC?,True,False,Off topic. Closest: báo cáo tài chính doanh nghiệp (0.40),274.8
+Hành vi bị cấm khi xử lý dữ liệu?,True,True,On topic: luật pháp Việt Nam về quyền dữ liệu (sim=0.64),167.8
+Lợi nhuận sau thuế của doanh nghiệp?,True,True,On topic: báo cáo tài chính doanh nghiệp (sim=0.50),343.0
+Cách nấu phở bò ngon?,False,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (0.21),328.4
+Recipe for chocolate cake?,False,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (0.08),412.5
+Bitcoin price prediction 2027?,False,False,Off topic. Closest: báo cáo tài chính doanh nghiệp (0.08),267.9
+Best gaming laptop dưới 30 triệu?,False,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (0.27),153.1
+How to learn React in 30 days?,False,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (-0.00),153.1
+Trận MU vs Liverpool tỉ số bao nhiêu?,False,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (0.18),341.0
+Thuốc trị đau đầu loại nào tốt?,False,False,Off topic. Closest: luật pháp Việt Nam về quyền dữ liệu (0.17),272.8
+Cách trồng cây xương rồng?,False,False,Off topic. Closest: luật pháp Việt Nam về quyền dữ liệu (0.22),161.7
+Movie review Inception 2010?,False,False,Off topic. Closest: báo cáo tài chính doanh nghiệp (0.11),274.5
+Hướng dẫn fix bug PowerShell?,False,False,Off topic. Closest: Nghị định 13 về bảo vệ dữ liệu cá nhân (0.33),162.1

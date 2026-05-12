@@ -1,0 +1,21 @@
+input,custom_predicted,nemo_predicted,expected,nemo_latency_ms,nemo_reason
+Nghị định 13/2023 quy định những gì?,True,True,True,10040.8,"NeMo: allowed | response='Nghị định 13/2023/NĐ-CP của Chính phủ Việt Nam, được ban hàn'"
+Quyền của chủ thể dữ liệu là gì?,True,True,True,23844.8,NeMo: allowed | response='Quyền của chủ thể dữ liệu là một khái niệm quan trọng trong '
+Dữ liệu cá nhân nhạy cảm gồm những loại nào?,True,True,True,13876.2,NeMo: allowed | response='Dữ liệu cá nhân nhạy cảm là những thông tin mà khi bị tiết l'
+Báo cáo tài chính 2024 có doanh thu bao nhiêu?,True,True,True,4310.8,"NeMo: allowed | response='Xin lỗi, nhưng tôi không có thông tin cụ thể về báo cáo tài '"
+EBITDA của công ty năm ngoái?,True,True,True,3855.0,"NeMo: allowed | response='Xin lỗi, nhưng tôi không có thông tin cụ thể về EBITDA của b'"
+Quy định về xử lý dữ liệu trẻ em theo NĐ 13?,True,True,True,6766.2,"NeMo: allowed | response='Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân, có hiệu l'"
+Lãi gộp quý 4 là bao nhiêu?,False,False,True,431.6,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Tài sản cố định trong BCTC?,False,False,True,614.0,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Hành vi bị cấm khi xử lý dữ liệu?,True,False,True,560.9,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Lợi nhuận sau thuế của doanh nghiệp?,True,False,True,924.1,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Cách nấu phở bò ngon?,False,False,False,612.9,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Recipe for chocolate cake?,False,False,False,569.7,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Bitcoin price prediction 2027?,False,False,False,722.4,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Best gaming laptop dưới 30 triệu?,False,False,False,538.5,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+How to learn React in 30 days?,False,False,False,644.4,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Trận MU vs Liverpool tỉ số bao nhiêu?,False,False,False,627.6,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Thuốc trị đau đầu loại nào tốt?,False,False,False,1081.6,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Cách trồng cây xương rồng?,False,False,False,850.4,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Movie review Inception 2010?,False,False,False,543.1,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
+Hướng dẫn fix bug PowerShell?,False,False,False,786.3,"NeMo: blocked | response=""I'm sorry, I can't respond to that."""
