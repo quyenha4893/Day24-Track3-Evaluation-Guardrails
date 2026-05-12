@@ -1,6 +1,6 @@
 # Lab 24 — Production RAG Evaluation & Guardrail System
 
-**Student:** Nguyễn Việt Long | **MSSV:** 2A202600242 | **Class:** AICB-P2T3 | **Date:** 2026-05-12
+**Student:** Hoàng Anh Quyền | **MSSV:** 2A202600062 | **Class:** AICB-P2T3 | **Date:** 2026-05-12
 
 ---
 
